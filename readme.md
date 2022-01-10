@@ -5,13 +5,6 @@
  [![GitHub stars](https://img.shields.io/github/stars/bhagatabhijeet/empdir)](https://github.com/bhagatabhijeet/empdir/stargazers)
  
  
- ## Table of Contents
-- [Description](#description)
-- [Demo](#demo)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Description
 empdir is a simple user directory of all global employees of a hypothetical organisation named 'AbhiCorp' 
